@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to a new way to organise your bussiness back office
 
 You can use the [editor on GitHub](https://github.com/LazaDaniel/Koala-DSS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
