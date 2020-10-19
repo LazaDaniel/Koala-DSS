@@ -13,8 +13,8 @@ Koala este o aplicație care automatizează procesul prin care se stabilesc zile
 ### Support or Contact
 
 If you're interested in finding out more about this project, contact a crew member
--darius.munteanu26@gmail.com
--stefana.coman97@gmail.com
--daniel_laza@yahoo.com
--andrei_popescu_7@yahoo.com
+- darius.munteanu26@gmail.com
+- stefana.coman97@gmail.com
+- daniel_laza@yahoo.com
+- andrei_popescu_7@yahoo.com
 
