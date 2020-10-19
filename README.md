@@ -17,4 +17,5 @@ If you're interested in finding out more about this project, contact a crew memb
 - stefana.coman97@gmail.com
 - daniel_laza@yahoo.com
 - andrei_popescu_7@yahoo.com
+- mihai.gab_16@yahoo.co.uk
 
