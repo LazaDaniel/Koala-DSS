@@ -1,25 +1,12 @@
-# O noua modalitate de a organiza reintoarcerea la birou
-Koala este o aplicație care automatizează procesul prin care se stabilesc zilele în care angajații pot veni la birou, permițând astfel funcționarea la capacitate redusă în contextul pandemiei de Covid-19. Astfel se creează un mediu de lucru organizat și sigur oferind posibilitatea realizării unei anchete epidemiologice în caz de necesitate.
+# April
 
+A landing page template.
 
+* [Getting started](#getting-started)
 
+## Getting started
+* First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
+* Next, use your command line to enter your project directory.
+* This template comes with a ready-to-use package file called `package-sample.json`. You just need to rename it to `package.json`, then run `npm install` to install all of the dependencies into your project.
 
-## Rezultatele studiului desfasurat au relevat un grad mare de interes
-<img width="574" alt="Captură de ecran din 2020-11-02 la 09 05 07" src="https://user-images.githubusercontent.com/38374464/97839520-031c2300-1ceb-11eb-83da-528dd6cff5a9.png">
-<img width="619" alt="Captură de ecran din 2020-11-02 la 09 05 20" src="https://user-images.githubusercontent.com/38374464/97839518-02838c80-1ceb-11eb-93cb-067eaf893ceb.png">
-<img width="655" alt="Captură de ecran din 2020-11-02 la 09 05 32" src="https://user-images.githubusercontent.com/38374464/97839515-01eaf600-1ceb-11eb-94ea-3085bf7cad62.png">
-<img width="650" alt="Captură de ecran din 2020-11-02 la 09 05 39" src="https://user-images.githubusercontent.com/38374464/97839509-fe576f00-1cea-11eb-940b-d3cb7d636dd7.png">
-
-
-
-
-
-### Support or Contact
-
-Interesat in a afla mai multe detalii despre prroiect? Contacteaza un membru al echipei:
-- darius.munteanu26@gmail.com
-- stefana.coman97@gmail.com
-- daniel_laza@yahoo.com
-- andrei_popescu_7@yahoo.com
-- mihai.gab_16@yahoo.co.uk
-
+You're ready to go! Run any task by typing `npm run task` (where "task" is the name of the task in the `"scripts"` object). The most useful task for rapid development is `watch`. It will start a new server, open up a browser and watch for any SCSS or JS changes in the `src` directory; once it compiles those changes, the browser will automatically inject the changed file(s)!
